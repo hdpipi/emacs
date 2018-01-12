@@ -34,7 +34,7 @@
 (setq org-log-done 'time)
 
 
-
+;;以下是company-mode命令补全mode的相关配置信息,用于补全编程语言或其它一切命令的自动补全
 ;; Added by Package.el.  This must come before configurations of
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
